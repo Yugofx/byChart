@@ -1,0 +1,1 @@
+export const nextIdx = (arr, idx) => arr[idx + 1] ? idx + 1 : 0;

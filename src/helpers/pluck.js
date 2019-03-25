@@ -1,0 +1,1 @@
+export const pluck = prop => arr => arr.map(i => i[prop]);

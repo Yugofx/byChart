@@ -1,0 +1,1 @@
+export const each = (...fns) => (...args) => fns.map((fn, idx) => fn(args[idx]));

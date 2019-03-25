@@ -1,0 +1,1 @@
+export const toArray = any => [].slice.call(any);

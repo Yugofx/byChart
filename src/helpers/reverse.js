@@ -1,0 +1,1 @@
+export const reverse = arr => arr.map((_, i) => arr[arr.length - 1 - i]);
